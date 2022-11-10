@@ -5,6 +5,7 @@
   "error-with-status": "サーバーエラー {{statusCode}}",
   "error-without-status": "サーバーエラーが発生しました",
   "title": "ホーム | next-i18next",
+  "alt-message": "Linkコンポーネントを使用しない代替言語変更",
   "blog": {
     "optimized": {
       "question": "あなたは、すべての側の最適化された翻訳を持っているいくつかのスーパーパワーを発揮するのが好きですか？",

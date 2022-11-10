@@ -64,7 +64,7 @@ const Homepage = (_props: InferGetStaticPropsType<typeof getStaticProps>) => {
           <Link href="/" locale={changeTo}>
             <button>{t("change-locale", { changeTo })}</button>
           </Link>
-          alternative language change without using Link component
+          {t("alt-message")}
           <button onClick={() => onToggleLanguageClick("ja")}>
             {t("change-locale", { changeTo: "ja" })}
           </button>
