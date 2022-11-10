@@ -1,0 +1,20 @@
+{
+  "h1": "簡単な変更",
+  "change-locale": "言語を \"{{changeTo}}\" に変える",
+  "to-second-page": "次のページへ",
+  "error-with-status": "サーバーエラー {{statusCode}}",
+  "error-without-status": "サーバーエラーが発生しました",
+  "title": "ホーム | next-i18next",
+  "blog": {
+    "optimized": {
+      "question": "あなたは、すべての側の最適化された翻訳を持っているいくつかのスーパーパワーを発揮するのが好きですか？",
+      "answer": "それなら、<1>このブログ記事</1>をご覧になってください。",
+      "link": "https://locize.com/blog/next-i18next/"
+    },
+    "ssg": {
+      "question": "SSG（次回のエクスポート）を使用しますか？",
+      "answer": "それなら、<1>このブログ記事</1>をご覧になってください。",
+      "link": "https://locize.com/blog/next-i18n-static/"
+    }
+  }
+}
